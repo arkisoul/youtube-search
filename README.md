@@ -23,7 +23,8 @@ pipenv shell
 ```pipenv
 pipenv install
 ```
-4. Run the development server
+4. Copy .env.example file to .env. Use a random secret key for Django and use provided Google Secret API key
+5. Run the development server
 ```python
 python manage.py runserver
 ```

@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 google-api-python-client = "*"
 djangorestframework = "*"
+django-environ = "*"
 
 [dev-packages]
 
